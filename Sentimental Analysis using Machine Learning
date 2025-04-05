@@ -165,7 +165,7 @@ test_data_accuracy = accuracy_score(Y_test, X_test_prediction)
 
 print('Accuracy score on the test data :',test_data_accuracy)
 
-"""Model Accuracy = 77.8%
+"""Model Accuracy = 92%
 
 Saving the trained model
 """
